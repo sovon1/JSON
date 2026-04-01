@@ -1,4 +1,12 @@
-## 🏗️ Foundation
+# 🚀 Mastering JSON: The Definitive Learning Path
+
+<p align="center">
+  <img src="./melancholy.svg" alt="A melancholic and drifting representation of data structures">
+</p>
+
+Welcome to the ultimate resource for learning JSON. This repository is designed as a staircase, not a pile of notes. Each lesson builds upon the last, giving you a complete mental model of how JSON works in the real world. All examples are completely self-contained within the lessons.
+
+## 🗂️ Foundation
 
 Start here if you are completely new to JSON.
 
@@ -30,18 +38,15 @@ Master real-world patterns, security, and performance.
 ## 📅 Suggested Timelines
 
 **If you are brand new:**
-
-* **Day 1:** Lessons 00 to 04
-* **Day 2:** Lesson 05
-* **Day 3:** Lessons 06 and 07
-* **Day 4:** Lessons 08 and 09
-* **Day 5:** Lessons 10 to 13
+- **Day 1:** Lessons 00 to 04
+- **Day 2:** Lesson 05
+- **Day 3:** Lessons 06 and 07
+- **Day 4:** Lessons 08 and 09
+- **Day 5:** Lessons 10 to 13
 
 **If you already use JSON regularly:**
+- **Session 1:** Lessons 03, 06, and 07
+- **Session 2:** Lessons 08, 09, and 10
+- **Session 3:** Lessons 11 and 12
 
-* **Session 1:** Lessons 03, 06, and 07
-* **Session 2:** Lessons 08, 09, and 10
-* **Session 3:** Lessons 11 and 12
-
-Dive right in and start learning!#   J S O N
-
+Dive right in and start learning!
