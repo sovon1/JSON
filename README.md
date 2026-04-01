@@ -6,6 +6,12 @@
 
 Welcome to the ultimate resource for learning JSON. This repository is designed as a staircase, not a pile of notes. Each lesson builds upon the last, giving you a complete mental model of how JSON works in the real world. All examples are completely self-contained within the lessons.
 
+<p align="center">
+  <a href="https://youtu.be/KMLOWkGAxVc?si=5aK1GQDGazCouRPb" target="_blank">
+    <img src="https://img.youtube.com/vi/KMLOWkGAxVc/maxresdefault.jpg" alt="Watch the video" width="600" />
+  </a>
+</p>
+
 ## 🗂️ Foundation
 
 Start here if you are completely new to JSON.
